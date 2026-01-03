@@ -24,6 +24,7 @@ for pkg in [
     "dora",
     "yaml",
     "lameenc",
+    "soundfile",
 ]:
     datas, binaries, imports = collect_all(pkg)
     _datas += datas

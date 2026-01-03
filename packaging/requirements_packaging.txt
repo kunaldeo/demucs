@@ -8,3 +8,4 @@ openunmix
 pyyaml
 tqdm
 numpy==1.26.4
+soundfile>=0.12  # Provides audio backend for torchaudio on Windows
