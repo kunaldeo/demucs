@@ -1,0 +1,10 @@
+pyinstaller>=5.13
+# Runtime deps for demucs (torch/torchaudio installed separately)
+dora-search
+einops
+julius>=0.2.3
+lameenc>=1.2
+openunmix
+pyyaml
+tqdm
+numpy==1.26.4

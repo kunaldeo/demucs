@@ -7,6 +7,10 @@ Session.vim
 /metadata
 /notebooks
 /outputs
+/packaging/assets/ffmpeg
+/packaging/assets/models
+/packaging/build
+/packaging/dist
 /release
 /release_models
 /separated
